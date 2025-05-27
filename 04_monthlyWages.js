@@ -1,4 +1,4 @@
-function employee_Monthly_Wages() {
+function employeeMonthlyWages() {
     const noTime = 0
     const partTime = 1
     const fullTime = 2
